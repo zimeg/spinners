@@ -1,0 +1,6 @@
+# Built binaries
+wait
+stable
+
+# Testing outputs
+*.out
